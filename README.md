@@ -1,5 +1,6 @@
 # Nebula
-**Nebula** will be a **lightweight desktop environment** designed specifically to run on top of the **ToroWM window manager** in **ToroOS**. Its goal is to provide a simple and functional graphical environment that allows users to launch applications, manage windows, and perform common operations efficiently. Although **Nebula** will be a separate project from **ToroWM**, both will be closely integrated to offer a cohesive user experience.
+**Nebula** will be a **lightweight desktop environment** designed specifically to run on top of the **[ToroWM](https://github.com/crashmaster35/ToroWM)
+ window manager** in **ToroOS**. Its goal is to provide a simple and functional graphical environment that allows users to launch applications, manage windows, and perform common operations efficiently. Although **Nebula** will be a separate project from **ToroWM**, both will be closely integrated to offer a cohesive user experience.
 
 ---
 
